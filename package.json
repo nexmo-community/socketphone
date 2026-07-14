@@ -6,7 +6,7 @@
   "author": "Sam Machin",
   "license": "MIT",
   "dependencies": {
-    "body-parser": "^1.18.2",
+    "body-parser": "^1.20.6",
     "chunking-streams": "0.0.8",
     "express": "4.16.2",
     "express-ws": "^3.0.0",
